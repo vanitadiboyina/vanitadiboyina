@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **vanitadiboyina/vanitadiboyina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vanitadiboyina85806@gmail.com**
 
-- ⚡ fun fact * I crack jokes which makes stomach full laugh to others and they feel happy * 
+<!--- ⚡ fun fact * I crack jokes which makes stomach full laugh to others and they feel happy * >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
